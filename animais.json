@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "nome": "Tom",
+    "raça": "Viralata",
+    "descricao": "Come de mais e é muito brincalhão"
+  },
+  {
+    "id": "2",
+    "nome": "Scooby",
+    "raça": "Pincher",
+    "descricao": "Muito bravo e comilão"
+  },
+  {
+    "id": "3",
+    "nome": "Slinky",
+    "raça": "Golden",
+    "descricao": "Muito amigavel, esperto, bagunceiro, brincalhão."
+  }
+]
